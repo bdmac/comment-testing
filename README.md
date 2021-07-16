@@ -1,7 +1,6 @@
 # comment-testing
 
-Ok coolio
+Ok Tupac
 
 Some stuff here...
 And here
-
